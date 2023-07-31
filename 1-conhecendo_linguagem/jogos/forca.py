@@ -1,5 +1,3 @@
-#end="\n" -> Pular linha
-
 def jogar():
     print("*************************************")
     print("********** *Jogo de Forca* **********")

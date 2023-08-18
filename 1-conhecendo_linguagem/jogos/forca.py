@@ -38,7 +38,12 @@ def jogar():
 
     condicao_ganhar_perder_jogo(acertou, palavra_secreta)
 
-    imprime_mesagem_fim_jogo()
+    jogar_novamente = input('Deseja jogar novamente? s/n', end='\n')
+    if jogar_novamente == 'n':
+        imprime_mesagem_fim_jogo()
+    else:
+        jogar()
+
 
 #Declarando as funções:
 

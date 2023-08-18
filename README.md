@@ -18,7 +18,7 @@ Após entender a linguagem, vou descobrir como testar aplicações em Python, se
 
 ## Cursos:
 - [x] Python: começando com a linguagem
-- [] Python: avançando na linguagem
+- [x] Python: avançando na linguagem
 - [] Python: entendendo a orientação a objetos
 - [] Python: avançando na orientação a objetos
 - [] String em Python: extraindo informações de um URL

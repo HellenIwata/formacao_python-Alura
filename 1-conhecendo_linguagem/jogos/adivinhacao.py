@@ -1,23 +1,19 @@
 # biblioteca importada para sortear os números aleatórios do jogo
 import random
+import menu_jogos
+
+from forca import imprime_mesagem_fim_jogo
 
 
 def jogar():
-    print("*************************************")
-    print("******* *Jogo de Adivinhação* *******")
-    print("*************************************", end="\n\n")
+    imprime_msg_abertura()
 
-    num_secreto = random.randrange(1,
-                                   101)  # Definindo quais números podem ser escolhidos para ser o secreto (entre 1 e 100)
-    total_de_tentativas = 0
+    num_secreto = random.randrange(1, 101)  # Definindo quais números podem ser escolhidos para ser o secreto (entre 1 e 100)
+    #total_de_tentativas = 0
     pontos = 1000
 
     # Criando o nível de dificuldade do jogo
-    print("********* *Escolha a dificuldade:* *********")
-    print("********************************************", end="\n")
-    print('(1) Fácil | (2) Intermediário | (3) Difícil')
-    print("********************************************", end="\n")
-
+    imprime_nivel_jogo()
     nivel = int(input("Digite a opção desejada: "))
     print(end="\n\n")
 
@@ -29,6 +25,30 @@ def jogar():
         total_de_tentativas = 5
 
     # Iniciando a sequencia do jogo
+    condicao_para_o_jogo(total_de_tentativas, num_secreto, pontos)
+
+    jogar_novamente = input('Deseja jogar novamente? s/n ')
+    if jogar_novamente == 'n':
+        imprime_mesagem_fim_jogo()
+        voltar_ao_menu()
+    else:
+        jogar()
+
+
+def imprime_msg_abertura():
+    print("*************************************")
+    print("******* *Jogo de Adivinhação* *******")
+    print("*************************************", end="\n\n")
+
+
+def imprime_nivel_jogo():
+    print("********* *Escolha a dificuldade:* *********")
+    print("********************************************", end="\n")
+    print('(1) Fácil | (2) Intermediário | (3) Difícil')
+    print("********************************************", end="\n")
+
+
+def condicao_para_o_jogo(total_de_tentativas, num_secreto, pontos):
     for rodada in range(1, total_de_tentativas + 1):
         print('Tentativa {} de {}'.format(rodada, total_de_tentativas))
 
@@ -49,7 +69,17 @@ def jogar():
 
         # Criando a condição para a dica
         if acertou:
-            print('**Parabéns! Você acertou**', end='\n')
+            print('Parabéns, você acertou!', end='\n')
+            print("       ___________      ")
+            print("      '._==_==_=_.'     ")
+            print("      .-\:      /-.    ")
+            print("     | (|:.     |) |    ")
+            print("      '-|:.     |-'     ")
+            print("        \::.    /      ")
+            print("         '::. .'        ")
+            print("           ) (          ")
+            print("         _.' '._        ")
+            print("        '-------'       ", end='\n\n')
             print('Você realizou {} pontos'.format(pontos), end='\n\n')
             break
         else:
@@ -61,9 +91,15 @@ def jogar():
             pontos_perdidos = abs(num_secreto - num_chute)
             pontos = pontos - pontos_perdidos
 
-    print("*************************************")
-    print("*********** *Fim do jogo* ***********")
-    print("*************************************")
+
+def voltar_ao_menu():
+    voltar = input('Deseja voltar ao menu principal? s/n ')
+    print('\n')
+    if voltar == 'n':
+        print('Feche o console.')
+    else:
+        menu_jogos.menu_jogos()
+        print('\n\n')
 
 
 if __name__ == '__main__':

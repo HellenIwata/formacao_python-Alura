@@ -13,8 +13,18 @@ def exibe_menu_escolha():
         1. Exercícios da função print
         2. Exercícios de condicionais
         3. Exercícios de lista, laço de repetição for e try_except
+        4. Exercícios de dicionarios
+        5. Encerrar o app
     ''')
 
+def encerrar_app():
+    os.system('cls')
+    print('''
+          Obrigada por visitar!
+          
+          Até a próxima! :)
+          ''')
+    
 def escolher_opcao():
     try:
         escolha_opcao = int(input('Digite a opção desejada: '))
@@ -25,6 +35,10 @@ def escolher_opcao():
             condicionais.executar_exercicios()
         elif escolha_opcao == 3:
             lista_for_try_except.executar_exercicios()
+        elif escolha_opcao ==4:
+            dicionarios.executar_exercicios()
+        elif escolha_opcao == 5:
+            encerrar_app()
         else:
             input('Opção inválida, aperte qualquer tecla para voltar ao menu anterior')
             voltar_ao_menu()

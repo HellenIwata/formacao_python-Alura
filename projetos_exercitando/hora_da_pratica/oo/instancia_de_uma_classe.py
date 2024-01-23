@@ -1,4 +1,4 @@
-def executar_execicio():
+def executar_exercicios():
     class Restaurante:
         nome = ''
         categoria = ''

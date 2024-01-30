@@ -2,6 +2,7 @@ from modelos.avaliacao import Avaliacao
 
 class Restaurante:
     restaurantes = []
+    '''Esta classe representa um restaurante e suas características'''
     
     '''
     Método __init__: é uma função especial que podemos aplicar para iniciar a classe. Ao criar o objeto da classe, o método é aplicado automaticamente e define o comportamento inicial do objeto. 
@@ -10,6 +11,10 @@ class Restaurante:
         **kwargs: Utilizado para passar parâmetros de inicialização para a classe quando fazemos o input de um objeto    
     '''
     def __init__(self, nome, categoria):
+        '''Este método inicializa uma instância do Restaurante.
+        Parâmetro:
+            nome, categoria (str): o nome respresenta o nome do restaurante e a categoria em qual categoria ela se encaixa.
+        '''
         #.title(): Função que retorna obrigatóriamente a primeira letra do texto em maiúscula, funcionamento parecido com o '.upper()'
         self._nome = nome.title() 
         self.categoria = categoria.title()
@@ -19,10 +24,12 @@ class Restaurante:
     
     #Método __str__: é uma função especial utilizado para retornar uma representação de texto
     def __str__(self):
+        '''Retorna uma representação de str'''
         return f'{self._nome} | {self.categoria}'
     
     @classmethod #@classmethod: utilizado para se referenciar a métodos que pertençam a classe, e não do objeto. 
     def listar_restaurantes(cls):
+        '''Retorna a lista com os restaurantes cadastrados'''
         print(f'{'Nome do Restaurante'.ljust(25)} | {'Categoria'.ljust(25)} | {'Avaliações'.ljust(25)} | Status\n')
         
         for restaurante in cls.restaurantes:
@@ -31,19 +38,27 @@ class Restaurante:
     # Decorador @property: utilizado para transformar um método em uma propriedade de uma classe. Ele permite que um método seja acessado como atributo, sem a necessidade de chamá-lo como uma função.
     @property
     def ativo(self):
+        '''Retorna o status do restaurante cadastrado'''
         return '☑' if self._ativo else '☐'   
     
     def alterar_status(self):
+        '''Altera o status do restaurante cadastrado'''
         self._ativo = not self._ativo
 
     def receber_avaliacao(self, cliente, nota):
-        avaliacao = Avaliacao(cliente, nota)
-        self._avaliacao.append(avaliacao)
+        '''Recebe as avaliações dos restaurantes cadastros e verifica se a nota esta dentro dos parâmetros para seguir com o calculo da média
+            cliente (str) = nome do cliente que digitou a nota
+            nota(float) = nota atribuída ao restaurante
+        '''
+        if 0>=  nota <=5:
+            avaliacao = Avaliacao(cliente, nota)
+            self._avaliacao.append(avaliacao)
     
     @property
     def media_avaliacoes(self):
+        '''Se houver avaliações vinculadas com o restaurante cadastrado, esta função irá calcular e retornar a média das avaliações do restaurante'''
         if not self._avaliacao:
-            return 0
+            return 'Este restaurante não tem nenhuma avaliação'
         somar_avaliacoes = sum(avaliacao._nota for avaliacao in self._avaliacao)
         quantidade_avaliacoes = len(self._avaliacao)
         media_avaliacoes = round(somar_avaliacoes / quantidade_avaliacoes, 1)

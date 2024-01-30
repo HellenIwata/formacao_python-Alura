@@ -19,7 +19,7 @@ Após entender a linguagem, vou descobrir como testar aplicações em Python, se
 ## Cursos:
 - [x] Python: começando com a linguagem
 - [x] Python: avançando na linguagem
-- [] Python: entendendo a orientação a objetos
+- [x] Python: entendendo a orientação a objetos
 - [] Python: avançando na orientação a objetos
 - [] String em Python: extraindo informações de um URL
 - [] Python Collenctions parte 1: listas e tuplas

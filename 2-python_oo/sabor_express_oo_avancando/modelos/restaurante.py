@@ -1,4 +1,5 @@
 from modelos.avaliacao import Avaliacao
+from modelos.cardapio.item_cardapio import ItemCardapio
 
 class Restaurante:
     restaurantes = []
@@ -20,6 +21,7 @@ class Restaurante:
         self.categoria = categoria.title()
         self._ativo = False
         self._avaliacao = []
+        self._cardapio = []
         Restaurante.restaurantes.append(self)
     
     #Método __str__: é uma função especial utilizado para retornar uma representação de texto
@@ -45,6 +47,7 @@ class Restaurante:
         '''Altera o status do restaurante cadastrado'''
         self._ativo = not self._ativo
 
+    @property
     def receber_avaliacao(self, cliente, nota):
         '''Recebe as avaliações dos restaurantes cadastros e verifica se a nota esta dentro dos parâmetros para seguir com o calculo da média
             cliente (str) = nome do cliente que digitou a nota
@@ -64,3 +67,10 @@ class Restaurante:
         media_avaliacoes = round(somar_avaliacoes / quantidade_avaliacoes, 1)
         return media_avaliacoes
 
+    def adicionar_ao_cardapio(self, item):
+        """Se houver item ele será adicionado ao cardápio, esta função irá verificar se o item passado é uma instância da classe itemCardapio ou classe derivada dela """
+        if isinstance(item, ItemCardapio): #Função isinstance: Será verdadeira se o item que é passado como argumento for uma instância da classe itemCardapio ou se for uma classe derivada de itemCardapio
+            self._cardapio.append(item)
+    
+                
+    

@@ -47,7 +47,6 @@ class Restaurante:
         '''Altera o status do restaurante cadastrado'''
         self._ativo = not self._ativo
 
-    @property
     def receber_avaliacao(self, cliente, nota):
         '''Recebe as avaliações dos restaurantes cadastros e verifica se a nota esta dentro dos parâmetros para seguir com o calculo da média
             cliente (str) = nome do cliente que digitou a nota
@@ -72,5 +71,17 @@ class Restaurante:
         if isinstance(item, ItemCardapio): #Função isinstance: Será verdadeira se o item que é passado como argumento for uma instância da classe itemCardapio ou se for uma classe derivada de itemCardapio
             self._cardapio.append(item)
     
-                
+    @property
+    def listar_cardapio(self):
+        print(f'Cardapio do restaurante {self._nome}\n')
+        for i,item in enumerate(self._cardapio,start=1):
+                if hasattr(item,'_descricao'):
+                    mensagem_prato = f'{i}. Nome: {item._nome} | Preço: R${item._preco} | Descrição: {item._descricao}'
+                    print(mensagem_prato)
+                else:
+                    mensagem_bebida = f'{i}. Nome: {item._nome} | Preço: R${item._preco} | Tamanho: {item._tamanho}'
+                    print(mensagem_bebida)
     
+
+
+            

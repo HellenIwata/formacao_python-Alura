@@ -9,6 +9,7 @@ class Sobremesa(ItemCardapio):
     def __str__(self) -> str:
         return f'{self._nome} | {self._preco} | {self._tipo} | {self._tamanho}'
     
+    #metodo
     def aplicar_desconto(self):
         self._preco -= (self._preco * 0.10)
         

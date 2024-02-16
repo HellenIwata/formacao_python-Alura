@@ -1,0 +1,772 @@
+[
+    {
+        "ITEM": "Baconator",
+        "PRICE": 39.85,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Dave\u2019s Double",
+        "PRICE": 52.43,
+        "DESCRIPTION": "A combina\u00e7\u00e3o perfeita de do\u00e7ura e frutas."
+    },
+    {
+        "ITEM": "Dave\u2019s Single",
+        "PRICE": 47.66,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Dave\u2019s Triple",
+        "PRICE": 40.81,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Double Stack",
+        "PRICE": 55.03,
+        "DESCRIPTION": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    },
+    {
+        "ITEM": "Jr. Bacon Cheeseburger",
+        "PRICE": 44.78,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Jr. Cheeseburger",
+        "PRICE": 55.18,
+        "DESCRIPTION": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "ITEM": "Jr. Cheeseburger Deluxe",
+        "PRICE": 38.85,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Son of Baconator",
+        "PRICE": 55.03,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "3 Piece Chicken Tenders",
+        "PRICE": 32.92,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "4 Piece Chicken Nuggets",
+        "PRICE": 37.46,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "4 Piece Chicken Tenders",
+        "PRICE": 42.83,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "6 Picece Chicken Nuggets",
+        "PRICE": 50.02,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "6 Piece Chicken Tenders",
+        "PRICE": 32.86,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "10 Piece Chicken Nuggets",
+        "PRICE": 53.35,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Crispy Chicken BLT",
+        "PRICE": 51.8,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Crispy Chicken Sandwich",
+        "PRICE": 32.95,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Grilled Asiago Ranch Club",
+        "PRICE": 52.21,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Grilled Chicken Sandwich",
+        "PRICE": 38.63,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Grilled Chicken Wrap",
+        "PRICE": 59.09,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Homestyle Asiago Ranch Chicken Club",
+        "PRICE": 45.49,
+        "DESCRIPTION": "Para os amantes de comida caseira."
+    },
+    {
+        "ITEM": "Homestyle Chicken Sandwich",
+        "PRICE": 36.01,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "S\u2019Awesome Sauce",
+        "PRICE": 31.84,
+        "DESCRIPTION": "Um cl\u00e1ssico que nunca sai de moda."
+    },
+    {
+        "ITEM": "Spicy Asiago Ranch Club",
+        "PRICE": 42.92,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Spicy Chicken Sandwich",
+        "PRICE": 50.14,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Spicy Chicken Wrap",
+        "PRICE": 57.43,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Apple Pecan Chicken Salad, Full Size",
+        "PRICE": 56.34,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Apple Pecan Chicken Salad, Half Size",
+        "PRICE": 39.87,
+        "DESCRIPTION": "Sinta o sabor da natureza em cada mordida."
+    },
+    {
+        "ITEM": "Berry Burst Chicken Salad, Full Size",
+        "PRICE": 47.1,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Berry Burst Chicken Salad, Half Size",
+        "PRICE": 39.97,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Caesar Side Salad",
+        "PRICE": 50.37,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Garden Side Salad",
+        "PRICE": 37.3,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Southwest Avocado Chicken Salad, Full Size",
+        "PRICE": 44.41,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Southwest Avocado Chicken Salad, Half Size",
+        "PRICE": 51.76,
+        "DESCRIPTION": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "ITEM": "Spicy Caesar Chicken Salad, Full Size",
+        "PRICE": 34.8,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Spicy Caesar Chicken Salad, Half Size",
+        "PRICE": 58.59,
+        "DESCRIPTION": "Para os amantes de comida caseira."
+    },
+    {
+        "ITEM": "Taco Salad, Full Size",
+        "PRICE": 48.91,
+        "DESCRIPTION": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "ITEM": "Taco Salad, Half Size",
+        "PRICE": 47.79,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Apple Bites",
+        "PRICE": 56.11,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Baconator Fries",
+        "PRICE": 54.09,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Bacon Cheese Baked Potato",
+        "PRICE": 44.91,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Cheese Baked Potato",
+        "PRICE": 37.98,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Chili & Cheese Baked Potato",
+        "PRICE": 35.26,
+        "DESCRIPTION": "Uma bebida irresist\u00edvel e refrescante."
+    },
+    {
+        "ITEM": "Chili, Large",
+        "PRICE": 52.14,
+        "DESCRIPTION": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Chili, Small",
+        "PRICE": 44.13,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Chili Cheese Fries",
+        "PRICE": 39.62,
+        "DESCRIPTION": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "ITEM": "Natural-Cut Fries, Junior",
+        "PRICE": 55.94,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Natural-Cut Fries, Large",
+        "PRICE": 55.01,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Natural-Cut Fries, Medium",
+        "PRICE": 30.56,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Natural-Cut Fries, Small",
+        "PRICE": 40.93,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Plain Baked Potato",
+        "PRICE": 36.64,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Sour Cream and Chive Baked Potato",
+        "PRICE": 57.8,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Summer Berry Burst Fruit Cup",
+        "PRICE": 39.5,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "1% Chocolate Milk",
+        "PRICE": 36.68,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "1% White Milk",
+        "PRICE": 31.57,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "All-Natural Lemonade, Large",
+        "PRICE": 31.39,
+        "DESCRIPTION": "Para os amantes de caf\u00e9 e cappuccinos."
+    },
+    {
+        "ITEM": "All-Natural Lemonade, Medium",
+        "PRICE": 43.4,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "All-Natural Lemonade, Small",
+        "PRICE": 35.52,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Apple Kiwi Fruit Tea, Large",
+        "PRICE": 38.29,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Apple Kiwi Fruit Tea, Medium",
+        "PRICE": 52.91,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Apple Kiwi Fruit Tea, Small",
+        "PRICE": 46.17,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Barq\u2019s Root Beer, Large",
+        "PRICE": 53.97,
+        "DESCRIPTION": "Para os amantes de caf\u00e9 e cappuccinos."
+    },
+    {
+        "ITEM": "Barq\u2019s Root Beer, Medium",
+        "PRICE": 58.0,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Barq\u2019s Root Beer, Small",
+        "PRICE": 36.28,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Brewed Unsweetened Iced Tea, Large",
+        "PRICE": 38.39,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Brewed Unsweetened Iced Tea, Medium",
+        "PRICE": 47.89,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Brewed Unsweetened Iced Tea, Small",
+        "PRICE": 57.58,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Caramel Iced Coffee, Medium",
+        "PRICE": 57.89,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Caramel Iced Coffee, Small",
+        "PRICE": 34.86,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Coca-Cola, Large",
+        "PRICE": 51.34,
+        "DESCRIPTION": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "ITEM": "Coca-Cola, Medium",
+        "PRICE": 57.42,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Coca-Cola, Small",
+        "PRICE": 31.51,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "Coca-Cola Zero Sugar, Large",
+        "PRICE": 48.26,
+        "DESCRIPTION": "A combina\u00e7\u00e3o perfeita de do\u00e7ura e frutas."
+    },
+    {
+        "ITEM": "Coca-Cola Zero Sugar, Medium",
+        "PRICE": 54.96,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Coca-Cola Zero Sugar, Small",
+        "PRICE": 34.85,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Diet Coke, Large",
+        "PRICE": 35.31,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Diet Coke, Medium",
+        "PRICE": 57.75,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Diet Coke, Small",
+        "PRICE": 49.17,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Dr Pepper, Large",
+        "PRICE": 41.64,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Dr Pepper, Medium",
+        "PRICE": 56.88,
+        "DESCRIPTION": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "ITEM": "Dr Pepper, Small",
+        "PRICE": 47.1,
+        "DESCRIPTION": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "ITEM": "Fanta Orange, Large",
+        "PRICE": 43.82,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Fanta Orange, Medium",
+        "PRICE": 47.41,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Fanta Orange, Small",
+        "PRICE": 36.86,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Hi-C Flashin\u2019 Fruit Punch, Large",
+        "PRICE": 42.86,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Hi-C Flashin\u2019 Fruit Punch, Medium",
+        "PRICE": 41.32,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Hi-C Flashin\u2019 Fruit Punch, Small",
+        "PRICE": 34.22,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Honest Tropical Green Tea, Large",
+        "PRICE": 54.22,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Honest Tropical Green Tea, Medium",
+        "PRICE": 56.44,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Honest Tropical Green Tea, Small",
+        "PRICE": 43.94,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Hot Tea",
+        "PRICE": 39.79,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Limeade, Large",
+        "PRICE": 57.16,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Limeade, Medium",
+        "PRICE": 39.03,
+        "DESCRIPTION": "Deliciosos molhos para real\u00e7ar seu prato."
+    },
+    {
+        "ITEM": "Limeade, Small",
+        "PRICE": 48.46,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Minute Maid Light Lemonade, Large",
+        "PRICE": 44.21,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Minute Maid Light Lemonade, Medium",
+        "PRICE": 58.91,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Minute Maid Light Lemonade, Small",
+        "PRICE": 58.58,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Mocha Iced Coffee, Medium",
+        "PRICE": 48.23,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Mocha Iced Coffee, Small",
+        "PRICE": 49.46,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Pear Berry Fruit Tea, Large",
+        "PRICE": 57.15,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Pear Berry Fruit Tea, Medium",
+        "PRICE": 56.49,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Pear Berry Fruit Tea, Small",
+        "PRICE": 49.78,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Skinny Vanilla Iced Coffee, Medium",
+        "PRICE": 47.22,
+        "DESCRIPTION": "Um cl\u00e1ssico que nunca sai de moda."
+    },
+    {
+        "ITEM": "Skinny Vanilla Iced Coffee, Small",
+        "PRICE": 46.72,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Small Sprite, Small",
+        "PRICE": 53.89,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Sprite, Large",
+        "PRICE": 52.48,
+        "DESCRIPTION": "Para os apaixonados por caf\u00e9 e lattes."
+    },
+    {
+        "ITEM": "Sprite, Medium",
+        "PRICE": 44.52,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Strawberry Lemonade, Large",
+        "PRICE": 30.15,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Strawberry Lemonade, Medium",
+        "PRICE": 35.08,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Strawberry Lemonade, Small",
+        "PRICE": 45.96,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Strawberry Sweet Tea, Large",
+        "PRICE": 36.07,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Strawberry Sweet Tea, Medium",
+        "PRICE": 35.48,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Strawberry Sweet Tea, Small",
+        "PRICE": 36.95,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Strawberry Tea, Large",
+        "PRICE": 30.79,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Strawberry Tea, Medium",
+        "PRICE": 59.25,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Strawberry Tea, Small",
+        "PRICE": 49.72,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Sweetened Iced Tea, Large",
+        "PRICE": 38.01,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Sweetened Iced Tea, Medium",
+        "PRICE": 31.41,
+        "DESCRIPTION": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Sweetened Iced Tea, Small",
+        "PRICE": 39.55,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Vanilla Iced Coffee, Medium",
+        "PRICE": 36.07,
+        "DESCRIPTION": "Sabor ex\u00f3tico que voc\u00ea vai adorar."
+    },
+    {
+        "ITEM": "Vanilla Iced Coffee, Small",
+        "PRICE": 32.23,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e satisfat\u00f3ria."
+    },
+    {
+        "ITEM": "Classic Chocolate Frosty, Junior",
+        "PRICE": 57.22,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Classic Chocolate Frosty, Large",
+        "PRICE": 53.09,
+        "DESCRIPTION": "A escolha perfeita para um dia especial."
+    },
+    {
+        "ITEM": "Classic Chocolate Frosty, Medium",
+        "PRICE": 44.82,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Classic Chocolate Frosty, Small",
+        "PRICE": 50.41,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Vanilla Frosty, Junior",
+        "PRICE": 57.29,
+        "DESCRIPTION": "Deliciosos molhos para real\u00e7ar seu prato."
+    },
+    {
+        "ITEM": "Vanilla Frosty, Large",
+        "PRICE": 36.5,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Vanilla Frosty, Medium",
+        "PRICE": 38.52,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Vanilla Frosty, Small",
+        "PRICE": 47.72,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Chocolate Chunk Cookie",
+        "PRICE": 37.33,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Double Chocolate Chunk Cookie",
+        "PRICE": 43.02,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Sugar Cookie",
+        "PRICE": 39.27,
+        "DESCRIPTION": "Sabor aut\u00eantico que aquece o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Kids 2 Piece Chicken Tenders",
+        "PRICE": 47.81,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Kids 4 Piece Chicken Nuggets",
+        "PRICE": 57.99,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Kids Cheeseburger",
+        "PRICE": 49.89,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Kids Grilled Chicken Wrap",
+        "PRICE": 35.48,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Kids Hamburger",
+        "PRICE": 36.22,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Artisan Egg Sandwich with Bacon",
+        "PRICE": 32.48,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Artisan Egg Sandwich with Sausage",
+        "PRICE": 35.4,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Bacon Breakfast Bowl",
+        "PRICE": 39.09,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Biggie Breakfast Sandwich",
+        "PRICE": 47.08,
+        "DESCRIPTION": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "ITEM": "Fresh-Baked Biscuit with Applewood Smoked Bacon",
+        "PRICE": 37.52,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Fresh Baked Biscuit with Natural Sausage",
+        "PRICE": 47.34,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Gravy and Sausage Bowl",
+        "PRICE": 58.75,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "ITEM": "Honey Butter Chicken Biscuit",
+        "PRICE": 38.81,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e reconfortante."
+    },
+    {
+        "ITEM": "Sausage and Egg Burrito",
+        "PRICE": 50.61,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Sausage and Gravy Biscuit",
+        "PRICE": 39.03,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Sausage Biscuit",
+        "PRICE": 32.42,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Sausage Breakfast Bowl",
+        "PRICE": 31.43,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Seasoned Home-Style Potatoes, Large",
+        "PRICE": 52.8,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e reconfortante."
+    },
+    {
+        "ITEM": "Seasoned Home-Style Potatoes, Medium",
+        "PRICE": 47.02,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Seasoned Home-Style Potatoes, Small",
+        "PRICE": 43.1,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Two Sausage and Egg Burritos",
+        "PRICE": 49.13,
+        "DESCRIPTION": "A escolha perfeita para um dia especial."
+    },
+    {
+        "ITEM": "Two Sausage Biscuits",
+        "PRICE": 46.59,
+        "DESCRIPTION": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    }
+]

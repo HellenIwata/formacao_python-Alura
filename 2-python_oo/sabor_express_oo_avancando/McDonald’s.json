@@ -1,0 +1,1647 @@
+[
+    {
+        "ITEM": "Hamburger",
+        "PRICE": 32.42,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Cheeseburger",
+        "PRICE": 38.81,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Double Cheeseburger",
+        "PRICE": 50.18,
+        "DESCRIPTION": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "ITEM": "McDouble",
+        "PRICE": 55.73,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e satisfat\u00f3ria."
+    },
+    {
+        "ITEM": " Quarter Pounder\u00ae with Cheese",
+        "PRICE": 57.48,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e reconfortante."
+    },
+    {
+        "ITEM": "Double Quarter Pounder\u00ae with Cheese",
+        "PRICE": 48.59,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Big Mac\u00ae",
+        "PRICE": 45.34,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Big N\u2019 Tasty\u00ae",
+        "PRICE": 35.05,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Big N\u2019 Tasty\u00ae with Cheese",
+        "PRICE": 56.26,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Angus Bacon & Cheese",
+        "PRICE": 44.32,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Angus Deluxe",
+        "PRICE": 50.18,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Angus Mushroom & Swiss",
+        "PRICE": 34.91,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o \u00fanica de sabores e texturas."
+    },
+    {
+        "ITEM": "Filet-O-Fish\u00ae",
+        "PRICE": 47.46,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "McChicken \u00ae",
+        "PRICE": 42.44,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "McRib \u00ae",
+        "PRICE": 36.22,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Premium Grilled Chicken Classic Sandwich",
+        "PRICE": 55.95,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Premium Crispy Chicken Classic Sandwich",
+        "PRICE": 34.22,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Premium Grilled Chicken Club Sandwich",
+        "PRICE": 39.01,
+        "DESCRIPTION": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    },
+    {
+        "ITEM": "Premium Crispy Chicken Club Sandwich",
+        "PRICE": 43.48,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Premium Grilled Chicken Ranch BLT Sandwich",
+        "PRICE": 30.25,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Premium Crispy Chicken Ranch BLT Sandwich",
+        "PRICE": 38.44,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Southern Style Crispy Chicken Sandwich",
+        "PRICE": 35.01,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Ranch Snack Wrap\u00ae (Crispy)",
+        "PRICE": 30.67,
+        "DESCRIPTION": "Uma mistura de do\u00e7ura e croc\u00e2ncia."
+    },
+    {
+        "ITEM": "Ranch Snack Wrap\u00ae (Grilled)",
+        "PRICE": 48.33,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Honey Mustard Snack Wrap\u00ae (Crispy)",
+        "PRICE": 56.33,
+        "DESCRIPTION": "Incrivelmente saboroso e satisfat\u00f3rio."
+    },
+    {
+        "ITEM": "Honey Mustard Snack Wrap\u00ae (Grilled)",
+        "PRICE": 55.05,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Chipotle BBQ Snack Wrap\u00ae (Crispy)",
+        "PRICE": 30.08,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "Chipotle BBQ Snack Wrap\u00ae (Grilled)",
+        "PRICE": 54.4,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "ITEM": "Angus Bacon & Cheese Snack Wrap",
+        "PRICE": 35.34,
+        "DESCRIPTION": "Um cl\u00e1ssico que nunca sai de moda."
+    },
+    {
+        "ITEM": "Angus Chipotle BBQ Bacon",
+        "PRICE": 50.45,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Angus Chipotle BBQ Bacon Snack Wrap",
+        "PRICE": 42.7,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Angus Deluxe Snack Wrap",
+        "PRICE": 49.04,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Angus Mushroom & Swiss Snack Wrap",
+        "PRICE": 53.47,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Mac Snack Wrap",
+        "PRICE": 44.47,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Small French Fries",
+        "PRICE": 58.5,
+        "DESCRIPTION": "Um cl\u00e1ssico que nunca sai de moda."
+    },
+    {
+        "ITEM": "Medium French Fries",
+        "PRICE": 40.29,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Large French Fries",
+        "PRICE": 45.9,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Ketchup Packet",
+        "PRICE": 47.02,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "Salt Packet",
+        "PRICE": 55.61,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Chicken McNuggets\u00ae (4 piece)",
+        "PRICE": 43.95,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "Chicken McNuggets\u00ae (6 piece)",
+        "PRICE": 38.22,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Chicken McNuggets\u00ae (10 piece)",
+        "PRICE": 58.63,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Barbeque Sauce",
+        "PRICE": 31.21,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Honey",
+        "PRICE": 40.35,
+        "DESCRIPTION": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Hot Mustard Sauce",
+        "PRICE": 54.49,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Sweet \u2018N Sour Sauce",
+        "PRICE": 35.69,
+        "DESCRIPTION": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Chicken Selects\u00ae Premium Breast Strips (3 pc)",
+        "PRICE": 33.69,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Chicken Selects\u00ae Premium Breast Strips (5 pc)",
+        "PRICE": 53.14,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "Spicy Buffalo Sauce",
+        "PRICE": 35.12,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Creamy Ranch Sauce",
+        "PRICE": 40.21,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Tangy Honey Mustard Sauce",
+        "PRICE": 39.03,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "ITEM": "Southwestern Chipotle Barbeque Sauce",
+        "PRICE": 41.95,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Premium Southwest Salad with Grilled Chicken",
+        "PRICE": 56.48,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Premium Southwest Salad with Crispy Chicken",
+        "PRICE": 51.78,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Premium Southwest Salad (without chicken)",
+        "PRICE": 38.57,
+        "DESCRIPTION": "A escolha perfeita para um dia especial."
+    },
+    {
+        "ITEM": "Premium Bacon Ranch Salad with Grilled Chicken",
+        "PRICE": 41.41,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Premium Bacon Ranch Salad with Crispy Chicken",
+        "PRICE": 59.86,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Premium Bacon Ranch Salad (without chicken)",
+        "PRICE": 49.86,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Premium Caesar Salad with Grilled Chicken",
+        "PRICE": 41.09,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Premium Caesar Salad with Crispy Chicken",
+        "PRICE": 54.21,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e reconfortante."
+    },
+    {
+        "ITEM": "Premium Caesar Salad (without chicken)",
+        "PRICE": 45.24,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Side Salad",
+        "PRICE": 55.75,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Butter Garlic Croutons",
+        "PRICE": 46.93,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Snack Size Fruit & Walnut Salad",
+        "PRICE": 59.64,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Salad Dressings",
+        "PRICE": 30.99,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Newman\u2019s Own\u00ae Creamy Southwest Dressing",
+        "PRICE": 33.12,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Newman\u2019s Own\u00ae Creamy Caesar Dressing",
+        "PRICE": 40.86,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Newman\u2019s Own\u00ae Low Fat Balsamic Vinaigrette",
+        "PRICE": 36.37,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Newman\u2019s Own\u00ae Low Fat Family Recipe Italian Dressing",
+        "PRICE": 56.2,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Newman\u2019s Own\u00ae Ranch Dressing",
+        "PRICE": 30.57,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Egg McMuffin\u00ae",
+        "PRICE": 40.93,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Sausage McMuffin\u00ae",
+        "PRICE": 31.2,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Sausage McMuffin\u00ae with Egg",
+        "PRICE": 36.09,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "English Muffin",
+        "PRICE": 39.79,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)",
+        "PRICE": 44.31,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Bacon, Egg & Cheese Biscuit (Large Size Biscuit)",
+        "PRICE": 55.88,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Sausage Biscuit with Egg (Regular Size Biscuit)",
+        "PRICE": 43.94,
+        "DESCRIPTION": "Para os amantes de caf\u00e9 e cappuccinos."
+    },
+    {
+        "ITEM": "Sausage Biscuit with Egg (Large Size Biscuit)",
+        "PRICE": 45.63,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Sausage Biscuit (Regular Size Biscuit)",
+        "PRICE": 34.89,
+        "DESCRIPTION": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "ITEM": "Sausage Biscuit (Large Size Biscuit)",
+        "PRICE": 32.29,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Southern Style Chicken Biscuit (Regular Size Biscuit)",
+        "PRICE": 52.48,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Southern Style Chicken Biscuit (Large Size Biscuit)",
+        "PRICE": 35.25,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Steak, Egg & Cheese Bagel",
+        "PRICE": 30.77,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Bacon, Egg & Cheese McGriddles\u00ae",
+        "PRICE": 49.43,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Sausage, Egg & Cheese McGriddles\u00ae",
+        "PRICE": 41.9,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Sausage McGriddles\u00ae",
+        "PRICE": 48.08,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Big Breakfast\u00ae (Regular Size Biscuit)",
+        "PRICE": 45.42,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Big Breakfast\u00ae (Large Size Biscuit)",
+        "PRICE": 47.83,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Big Breakfast with Hotcakes (Regular Size Biscuit)",
+        "PRICE": 48.75,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Big Breakfast with Hotcakes (Large Size Biscuit)",
+        "PRICE": 48.98,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Sausage Burrito",
+        "PRICE": 33.8,
+        "DESCRIPTION": "Uma bebida irresist\u00edvel e refrescante."
+    },
+    {
+        "ITEM": "McSkillet\u2122 Burrito with Sausage",
+        "PRICE": 38.07,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Hotcakes",
+        "PRICE": 55.2,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Hotcakes and Sausage",
+        "PRICE": 37.69,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Hotcake Syrup",
+        "PRICE": 40.5,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Whipped Margarine (1 pat)",
+        "PRICE": 34.94,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Hash Brown",
+        "PRICE": 35.97,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Grape Jam",
+        "PRICE": 43.35,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Strawberry Preserves",
+        "PRICE": 42.21,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Bacon, Egg & Cheese Bagel",
+        "PRICE": 48.74,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Fruit & Maple Oatmeal",
+        "PRICE": 37.85,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Fruit & Maple Oatmeal without Brown Sugar",
+        "PRICE": 48.17,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "Hamburger Happy Meal",
+        "PRICE": 59.03,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "4 Piece Chicken McNuggets Happy Meal",
+        "PRICE": 50.17,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e satisfat\u00f3ria."
+    },
+    {
+        "ITEM": "6 Piece Chicken McNuggets\u00ae Happy Meal",
+        "PRICE": 57.05,
+        "DESCRIPTION": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "ITEM": "Fruit \u2018n Yogurt Parfait (7 oz)",
+        "PRICE": 51.63,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Low Fat Caramel Dip",
+        "PRICE": 57.2,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Vanilla Reduced Fat Ice Cream Cone",
+        "PRICE": 57.9,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Kiddie Cone",
+        "PRICE": 40.88,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Strawberry Sundae",
+        "PRICE": 48.68,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Hot Caramel Sundae",
+        "PRICE": 58.61,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Hot Fudge Sundae",
+        "PRICE": 39.56,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Peanuts (for Sundaes)",
+        "PRICE": 36.5,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "McFlurry\u00ae with M&M\u2019S\u00ae Candies (12 fl oz cup)",
+        "PRICE": 30.14,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "McFlurry\u00ae with OREO\u00ae Cookies (12 fl oz cup)",
+        "PRICE": 54.66,
+        "DESCRIPTION": "Uma mistura de do\u00e7ura e croc\u00e2ncia."
+    },
+    {
+        "ITEM": "Baked Hot Apple Pie",
+        "PRICE": 31.24,
+        "DESCRIPTION": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "ITEM": "Cinnamon Melts",
+        "PRICE": 42.54,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "McDonaldland\u00ae Cookies",
+        "PRICE": 31.22,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Chocolate Chip Cookie",
+        "PRICE": 34.5,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Oatmeal Raisin Cookie",
+        "PRICE": 59.51,
+        "DESCRIPTION": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Sugar Cookie",
+        "PRICE": 55.25,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Apple Dippers with Low Fat Caramel Dip",
+        "PRICE": 55.7,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Chocolate McCaf\u00e9\u00ae Shake (12 fl oz cup)",
+        "PRICE": 46.44,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Chocolate McCaf\u00e9\u00ae Shake (16 fl oz cup)",
+        "PRICE": 54.04,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Chocolate McCaf\u00e9\u00ae Shake (22 fl oz cup)",
+        "PRICE": 58.07,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Chocolate Triple Thick\u00ae Shake (12 fl oz cup)",
+        "PRICE": 32.35,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Chocolate Triple Thick\u00ae Shake (16 fl oz cup)",
+        "PRICE": 32.38,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Chocolate Triple Thick\u00ae Shake (21 fl oz cup)",
+        "PRICE": 43.69,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Chocolate Triple Thick\u00ae Shake (32 fl oz cup)",
+        "PRICE": 55.99,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Snack Size McFlurry\u00ae with M&M\u2019S\u00ae Candies",
+        "PRICE": 56.9,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Snack Size McFlurry\u00ae with OREO\u00ae Cookies",
+        "PRICE": 34.09,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Strawberry McCaf\u00e9\u00ae Shake (12 fl oz cup)",
+        "PRICE": 53.76,
+        "DESCRIPTION": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "ITEM": "Strawberry McCaf\u00e9\u00ae Shake (16 fl oz cup)",
+        "PRICE": 47.24,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Strawberry McCaf\u00e9\u00ae Shake (22 fl oz cup)",
+        "PRICE": 38.54,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Strawberry Triple Thick\u00ae Shake (12 fl oz cup)",
+        "PRICE": 49.13,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Strawberry Triple Thick\u00ae Shake (16 fl oz cup)",
+        "PRICE": 41.04,
+        "DESCRIPTION": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "ITEM": "Strawberry Triple Thick\u00ae Shake (21 fl oz cup)",
+        "PRICE": 45.0,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Strawberry Triple Thick\u00ae Shake (32 fl oz cup)",
+        "PRICE": 35.85,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Vanilla McCaf\u00e9\u00ae Shake (12 fl oz cup)",
+        "PRICE": 49.12,
+        "DESCRIPTION": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "ITEM": "Vanilla McCaf\u00e9\u00ae Shake (16 fl oz cup)",
+        "PRICE": 38.8,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Vanilla McCaf\u00e9\u00ae Shake (22 fl oz cup)",
+        "PRICE": 37.09,
+        "DESCRIPTION": "Uma escolha saud\u00e1vel e deliciosa."
+    },
+    {
+        "ITEM": "Vanilla Triple Thick Shake\u00ae (32 fl oz cup)",
+        "PRICE": 58.62,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Vanilla Triple Thick\u00ae Shake (12 fl oz cup)",
+        "PRICE": 47.3,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Vanilla Triple Thick\u00ae Shake (16 fl oz cup)",
+        "PRICE": 45.31,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Vanilla Triple Thick\u00ae Shake (21 fl oz cup)",
+        "PRICE": 53.04,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "1% Low Fat Milk Jug",
+        "PRICE": 54.66,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "1% Low Fat Chocolate Milk Jug",
+        "PRICE": 49.74,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Minute Maid\u00ae 100% Apple Juice Box",
+        "PRICE": 47.74,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Dasani\u00ae Water",
+        "PRICE": 43.05,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Minute Maid\u00ae Orange Juice (Small)",
+        "PRICE": 40.6,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Minute Maid\u00ae Orange Juice (Medium)",
+        "PRICE": 31.2,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Minute Maid\u00ae Orange Juice (Large)",
+        "PRICE": 47.3,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Coca-Cola\u00ae Classic (Child)",
+        "PRICE": 32.12,
+        "DESCRIPTION": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    },
+    {
+        "ITEM": "Coca-Cola\u00ae Classic (Small)",
+        "PRICE": 47.68,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Coca-Cola\u00ae Classic (Medium)",
+        "PRICE": 56.6,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Coca-Cola\u00ae Classic (Large)",
+        "PRICE": 49.53,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Diet Coke\u00ae (Child)",
+        "PRICE": 42.76,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Diet Coke\u00ae (Small)",
+        "PRICE": 38.83,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Diet Coke\u00ae (Medium)",
+        "PRICE": 52.85,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Diet Coke\u00ae (Large)",
+        "PRICE": 35.59,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Sprite\u00ae (Child)",
+        "PRICE": 59.38,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "Sprite\u00ae (Small)",
+        "PRICE": 47.29,
+        "DESCRIPTION": "Uma mistura de do\u00e7ura e croc\u00e2ncia."
+    },
+    {
+        "ITEM": "Sprite\u00ae (Medium)",
+        "PRICE": 52.31,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Sprite\u00ae (Large)",
+        "PRICE": 34.05,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Hi-C\u00ae Orange Lavaburst (Child)",
+        "PRICE": 55.6,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Hi-C\u00ae Orange Lavaburst (Small)",
+        "PRICE": 57.45,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Hi-C\u00ae Orange Lavaburst (Medium)",
+        "PRICE": 57.23,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Hi-C\u00ae Orange Lavaburst (Large)",
+        "PRICE": 35.26,
+        "DESCRIPTION": "Sabor ex\u00f3tico que voc\u00ea vai adorar."
+    },
+    {
+        "ITEM": "POWERade\u00ae Mountain Blast (Child)",
+        "PRICE": 47.53,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "POWERade\u00ae Mountain Blast (Small)",
+        "PRICE": 45.83,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e satisfat\u00f3ria."
+    },
+    {
+        "ITEM": "POWERade\u00ae Mountain Blast (Medium)",
+        "PRICE": 46.56,
+        "DESCRIPTION": "Para os amantes de caf\u00e9 e cappuccinos."
+    },
+    {
+        "ITEM": "POWERade\u00ae Mountain Blast (Large)",
+        "PRICE": 44.78,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Iced Tea (Child)",
+        "PRICE": 30.22,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Iced Tea (Small)",
+        "PRICE": 56.25,
+        "DESCRIPTION": "Deliciosos molhos para real\u00e7ar seu prato."
+    },
+    {
+        "ITEM": "Iced Tea (Medium)",
+        "PRICE": 30.62,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Iced Tea (Large)",
+        "PRICE": 51.06,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Coffee (Small)",
+        "PRICE": 50.86,
+        "DESCRIPTION": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "ITEM": "Coffee (Large)",
+        "PRICE": 51.66,
+        "DESCRIPTION": "A escolha perfeita para um dia especial."
+    },
+    {
+        "ITEM": "Coffee Cream",
+        "PRICE": 39.25,
+        "DESCRIPTION": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    },
+    {
+        "ITEM": "Sugar Packet",
+        "PRICE": 42.61,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "EQUAL\u00ae 0\nCalorie Sweetener",
+        "PRICE": 55.77,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "SPLENDA\u00ae No\nCalorie Sweetener",
+        "PRICE": 39.37,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Caramel (Small)",
+        "PRICE": 54.69,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Caramel (Medium)",
+        "PRICE": 49.06,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Caramel (Large)",
+        "PRICE": 37.17,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Hazelnut (Small)",
+        "PRICE": 54.0,
+        "DESCRIPTION": "Sabores \u00fanicos que v\u00e3o surpreender voc\u00ea."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Hazelnut (Medium)",
+        "PRICE": 59.87,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Hazelnut (Large)",
+        "PRICE": 50.21,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Regular (Small)",
+        "PRICE": 43.23,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e satisfat\u00f3ria."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Regular (Medium)",
+        "PRICE": 48.91,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Regular (Large)",
+        "PRICE": 52.18,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Vanilla (Small)",
+        "PRICE": 59.08,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Vanilla (Medium)",
+        "PRICE": 51.26,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Iced Coffee\u2013 Vanilla (Large)",
+        "PRICE": 44.27,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Iced Coffee with Sugar Free Vanilla Syrup (Small)",
+        "PRICE": 31.99,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Iced Coffee with Sugar Free Vanilla Syrup (Medium)",
+        "PRICE": 46.17,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Iced Coffee with Sugar Free Vanilla Syrup (Large)",
+        "PRICE": 59.06,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Sweet Tea (Child)",
+        "PRICE": 33.61,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Sweet Tea (Large)",
+        "PRICE": 38.48,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Sweet Tea (Medium)",
+        "PRICE": 39.57,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Sweet Tea (Small)",
+        "PRICE": 31.11,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Nonfat Cappuccino (Small)",
+        "PRICE": 42.91,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Nonfat Cappuccino (Medium)",
+        "PRICE": 53.23,
+        "DESCRIPTION": "Um cl\u00e1ssico que nunca sai de moda."
+    },
+    {
+        "ITEM": "Nonfat Cappuccino (Large)",
+        "PRICE": 49.1,
+        "DESCRIPTION": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "ITEM": "Nonfat Latte (Small)",
+        "PRICE": 45.4,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Nonfat Latte (Medium)",
+        "PRICE": 39.2,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Nonfat Latte (Large)",
+        "PRICE": 42.61,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Nonfat Caramel Cappuccino (Small)",
+        "PRICE": 55.68,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Nonfat Caramel Cappuccino (Medium)",
+        "PRICE": 44.74,
+        "DESCRIPTION": "Para os amantes de comida caseira."
+    },
+    {
+        "ITEM": "Nonfat Caramel Cappuccino (Large)",
+        "PRICE": 52.21,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Nonfat Caramel Latte (Small)",
+        "PRICE": 34.97,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Nonfat Caramel Latte (Medium)",
+        "PRICE": 37.55,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Nonfat Caramel Latte (Large)",
+        "PRICE": 45.97,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Nonfat Hazelnut Cappuccino (Small)",
+        "PRICE": 42.89,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Nonfat Hazelnut Cappuccino (Medium)",
+        "PRICE": 54.83,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Nonfat Hazelnut Cappuccino (Large)",
+        "PRICE": 56.28,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Nonfat Hazelnut Latte (Small)",
+        "PRICE": 39.33,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "ITEM": "Nonfat Hazelnut Latte (Medium)",
+        "PRICE": 54.13,
+        "DESCRIPTION": "Para os amantes de caf\u00e9 e cappuccinos."
+    },
+    {
+        "ITEM": "Nonfat Hazelnut Latte (Large)",
+        "PRICE": 46.37,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Nonfat Vanilla Cappuccino (Small)",
+        "PRICE": 47.28,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Nonfat Vanilla Cappuccino (Medium)",
+        "PRICE": 52.55,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Nonfat Vanilla Cappuccino (Large)",
+        "PRICE": 35.74,
+        "DESCRIPTION": "Uma mistura de do\u00e7ura e croc\u00e2ncia."
+    },
+    {
+        "ITEM": "Nonfat Vanilla Latte (Small)",
+        "PRICE": 40.86,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Nonfat Vanilla Latte (Medium)",
+        "PRICE": 53.55,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Nonfat Vanilla Latte (Large)",
+        "PRICE": 58.35,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Nonfat Cappuccino with Sugar Free Vanilla Syrup (Small)",
+        "PRICE": 42.38,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Nonfat Cappuccino with Sugar Free Vanilla Syrup (Medium)",
+        "PRICE": 47.98,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Nonfat Cappuccino with Sugar Free Vanilla Syrup (Large)",
+        "PRICE": 30.09,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Nonfat Latte with Sugar Free Vanilla Syrup (Small)",
+        "PRICE": 47.3,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Nonfat Latte with Sugar Free Vanilla Syrup (Medium)",
+        "PRICE": 48.33,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Nonfat Latte with Sugar Free Vanilla Syrup (Large)",
+        "PRICE": 57.63,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "Mocha with Nonfat Milk (Small)",
+        "PRICE": 54.67,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Mocha with Nonfat Milk (Medium)",
+        "PRICE": 56.72,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Mocha with Nonfat Milk (Large)",
+        "PRICE": 56.05,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Hot Chocolate with Nonfat Milk (Small)",
+        "PRICE": 48.52,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Hot Chocolate with Nonfat Milk (Medium)",
+        "PRICE": 56.76,
+        "DESCRIPTION": "Para os amantes de caf\u00e9 e cappuccinos."
+    },
+    {
+        "ITEM": "Hot Chocolate with Nonfat Milk (Large)",
+        "PRICE": 42.93,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Iced Nonfat Latte (Small)",
+        "PRICE": 33.66,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Iced Nonfat Latte (Medium)",
+        "PRICE": 35.99,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "Iced Nonfat Latte (Large)",
+        "PRICE": 51.49,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Iced Nonfat Caramel Latte (Small)",
+        "PRICE": 47.04,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Iced Nonfat Caramel Latte (Medium)",
+        "PRICE": 34.25,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Iced Nonfat Caramel Latte (Large)",
+        "PRICE": 56.52,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Iced Nonfat Hazelnut Latte (Small)",
+        "PRICE": 40.85,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Iced Nonfat Hazelnut Latte (Medium)",
+        "PRICE": 43.39,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Iced Nonfat Hazelnut Latte (Large)",
+        "PRICE": 41.73,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Iced Nonfat Vanilla Latte (Small)",
+        "PRICE": 42.04,
+        "DESCRIPTION": "Sinta o sabor da natureza em cada mordida."
+    },
+    {
+        "ITEM": "Iced Nonfat Vanilla Latte (Medium)",
+        "PRICE": 58.91,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Iced Nonfat Vanilla Latte (Large)",
+        "PRICE": 52.66,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Iced Nonfat Latte with Sugar Free Vanilla Syrup (Small)",
+        "PRICE": 58.96,
+        "DESCRIPTION": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "ITEM": "Iced Nonfat Latte with Sugar Free Vanilla Syrup (Medium)",
+        "PRICE": 32.58,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "ITEM": "Iced Nonfat Latte with Sugar Free Vanilla Syrup (Large)",
+        "PRICE": 37.82,
+        "DESCRIPTION": "A combina\u00e7\u00e3o perfeita de do\u00e7ura e frutas."
+    },
+    {
+        "ITEM": "Iced Mocha with Nonfat Milk (Medium)",
+        "PRICE": 47.43,
+        "DESCRIPTION": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "ITEM": "Iced Nonfat Caramel Mocha (Large)",
+        "PRICE": 37.34,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Iced Nonfat Caramel Mocha (Medium)",
+        "PRICE": 34.0,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o refrescante e saud\u00e1vel."
+    },
+    {
+        "ITEM": "Iced Nonfat Caramel Mocha (Small)",
+        "PRICE": 54.77,
+        "DESCRIPTION": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "ITEM": "Nonfat Caramel Mocha (Large)",
+        "PRICE": 35.23,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Nonfat Caramel Mocha (Medium)",
+        "PRICE": 40.35,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Nonfat Caramel Mocha (Small)",
+        "PRICE": 37.55,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Cappuccino (Small)",
+        "PRICE": 48.72,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Cappuccino (Medium)",
+        "PRICE": 48.59,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Cappuccino (Large)",
+        "PRICE": 33.93,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Latte (Small) ",
+        "PRICE": 32.26,
+        "DESCRIPTION": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "ITEM": "Latte (Medium)",
+        "PRICE": 50.03,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Latte (Large)",
+        "PRICE": 56.25,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Caramel Cappuccino (Small)",
+        "PRICE": 34.75,
+        "DESCRIPTION": "Uma mistura de do\u00e7ura e croc\u00e2ncia."
+    },
+    {
+        "ITEM": "Caramel Cappuccino (Medium)",
+        "PRICE": 37.94,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Caramel Cappuccino (Large)",
+        "PRICE": 44.85,
+        "DESCRIPTION": "Um cl\u00e1ssico que nunca sai de moda."
+    },
+    {
+        "ITEM": "Caramel Latte (Small)",
+        "PRICE": 32.54,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Caramel Latte (Medium)",
+        "PRICE": 58.91,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Caramel Latte (Large)",
+        "PRICE": 44.05,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Hazelnut Cappuccino (Small)",
+        "PRICE": 58.77,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Hazelnut Cappuccino (Medium)",
+        "PRICE": 41.18,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Hazelnut Cappuccino (Large)",
+        "PRICE": 53.36,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Hazelnut Latte (Small)",
+        "PRICE": 42.04,
+        "DESCRIPTION": "Uma mistura de do\u00e7ura e croc\u00e2ncia."
+    },
+    {
+        "ITEM": "Hazelnut Latte (Medium)",
+        "PRICE": 54.16,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Hazelnut Latte (Large)",
+        "PRICE": 31.39,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Vanilla Cappuccino (Small)",
+        "PRICE": 58.36,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Vanilla Cappuccino (Medium)",
+        "PRICE": 39.25,
+        "DESCRIPTION": "A escolha perfeita para um dia especial."
+    },
+    {
+        "ITEM": "Vanilla Cappuccino (Large)",
+        "PRICE": 41.38,
+        "DESCRIPTION": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "ITEM": "Vanilla Latte (Small)",
+        "PRICE": 50.65,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Vanilla Latte (Medium)",
+        "PRICE": 34.42,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Vanilla Latte (Large)",
+        "PRICE": 32.36,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Cappuccino with Sugar Free Vanilla Syrup (Small)",
+        "PRICE": 44.28,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Cappuccino with Sugar Free Vanilla Syrup (Medium)",
+        "PRICE": 32.78,
+        "DESCRIPTION": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    },
+    {
+        "ITEM": "Cappuccino with Sugar Free Vanilla Syrup (Large)",
+        "PRICE": 58.81,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Latte with Sugar Free Vanilla Syrup (Small)",
+        "PRICE": 37.33,
+        "DESCRIPTION": "Incrivelmente saboroso e satisfat\u00f3rio."
+    },
+    {
+        "ITEM": "Latte with Sugar Free Vanilla Syrup (Medium)",
+        "PRICE": 56.32,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Latte with Sugar Free Vanilla Syrup (Large)",
+        "PRICE": 33.46,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Mocha (Small)",
+        "PRICE": 57.28,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Mocha (Medium)",
+        "PRICE": 32.65,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Mocha (Large)",
+        "PRICE": 59.06,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Hot Chocolate (Small)",
+        "PRICE": 59.49,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Hot Chocolate (Medium)",
+        "PRICE": 33.98,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Hot Chocolate (Large)",
+        "PRICE": 32.54,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Iced Latte (Small)",
+        "PRICE": 48.64,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Iced Latte (Medium)",
+        "PRICE": 31.54,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Iced Latte (Large)",
+        "PRICE": 55.54,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Iced Caramel Latte (Small)",
+        "PRICE": 34.57,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Iced Caramel Latte (Medium)",
+        "PRICE": 52.96,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Iced Caramel Latte (Large)",
+        "PRICE": 57.35,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Iced Hazelnut Latte (Small)",
+        "PRICE": 52.4,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Iced Hazelnut Latte (Medium)",
+        "PRICE": 56.17,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Iced Hazelnut Latte (Large)",
+        "PRICE": 40.87,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Iced Vanilla Latte (Small)",
+        "PRICE": 57.96,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Iced Vanilla Latte (Medium)",
+        "PRICE": 30.13,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "ITEM": "Iced Vanilla Latte (Large)",
+        "PRICE": 36.63,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Iced Latte with Sugar Free Vanilla Syrup (Small)",
+        "PRICE": 56.76,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Iced Latte with Sugar Free Vanilla Syrup (Medium)",
+        "PRICE": 34.67,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o \u00fanica de sabores e texturas."
+    },
+    {
+        "ITEM": "Iced Latte with Sugar Free Vanilla Syrup (Large)",
+        "PRICE": 59.1,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Iced Mocha (Medium)",
+        "PRICE": 48.04,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Caramel Mocha (Large)",
+        "PRICE": 52.43,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Caramel Mocha (Medium)",
+        "PRICE": 58.04,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Caramel Mocha (Small)",
+        "PRICE": 51.28,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Iced Caramel Mocha (Large)",
+        "PRICE": 46.29,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Iced Caramel Mocha (Medium)",
+        "PRICE": 41.26,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Iced Caramel Mocha (Small)",
+        "PRICE": 37.5,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e satisfat\u00f3ria."
+    },
+    {
+        "ITEM": "Frappe Caramel (Small)",
+        "PRICE": 59.5,
+        "DESCRIPTION": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "ITEM": "Frappe Caramel (Medium)",
+        "PRICE": 51.32,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Frappe Caramel (Large)",
+        "PRICE": 46.29,
+        "DESCRIPTION": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Frappe Mocha (Small)",
+        "PRICE": 57.95,
+        "DESCRIPTION": "Deliciosos molhos para real\u00e7ar seu prato."
+    },
+    {
+        "ITEM": "Frappe Mocha (Medium)",
+        "PRICE": 51.08,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Frappe Mocha (Large)",
+        "PRICE": 49.15,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Strawberry Banana Smoothie (Large)",
+        "PRICE": 47.23,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Strawberry Banana Smoothie (Medium)",
+        "PRICE": 39.63,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Strawberry Banana Smoothie (Small)",
+        "PRICE": 39.79,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "ITEM": "Wild Berry Smoothie (Large)",
+        "PRICE": 37.47,
+        "DESCRIPTION": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "ITEM": "Wild Berry Smoothie (Medium)",
+        "PRICE": 48.45,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Wild Berry Smoothie (Small)",
+        "PRICE": 46.83,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    }
+]

@@ -1,0 +1,372 @@
+[
+    {
+        "ITEM": "Detroit Double Cheesy Pizza Slice",
+        "PRICE": 57.06,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Detroit Double Pepperoni Pizza Slice",
+        "PRICE": 44.86,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e satisfat\u00f3ria."
+    },
+    {
+        "ITEM": "Detroit Meaty Pizza Slice",
+        "PRICE": 54.53,
+        "DESCRIPTION": "Para os apaixonados por caf\u00e9 e lattes."
+    },
+    {
+        "ITEM": "Detroit Supremo Pizza Slice",
+        "PRICE": 36.76,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Backyard BBQ Chicken Personal Pan",
+        "PRICE": 37.5,
+        "DESCRIPTION": "Sabor ex\u00f3tico que voc\u00ea vai adorar."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Backyard BBQ Chicken Medium",
+        "PRICE": 38.87,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Backyard BBQ Chicken Large",
+        "PRICE": 38.78,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Beyond Meat\u00ae Pepperoni Medium",
+        "PRICE": 39.31,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Beyond Meat\u00ae Pepperoni Large",
+        "PRICE": 39.11,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Buffalo Chicken Personal Pan",
+        "PRICE": 46.93,
+        "DESCRIPTION": "A escolha perfeita para um dia especial."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Buffalo Chicken Medium",
+        "PRICE": 34.27,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Buffalo Chicken Large",
+        "PRICE": 30.27,
+        "DESCRIPTION": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Cheese Personal Pan",
+        "PRICE": 42.66,
+        "DESCRIPTION": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Cheese Medium",
+        "PRICE": 55.95,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Cheese Large",
+        "PRICE": 36.83,
+        "DESCRIPTION": "Para os amantes de caf\u00e9 e cappuccinos."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Chicken Bacon Parmesan Personal Pan",
+        "PRICE": 35.06,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Chicken Bacon Parmesan Medium",
+        "PRICE": 38.91,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Chicken Bacon Parmesan Large",
+        "PRICE": 57.25,
+        "DESCRIPTION": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Hawaiian Chicken Personal Pan",
+        "PRICE": 37.76,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Hawaiian Chicken Medium",
+        "PRICE": 37.43,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Hawaiian Chicken Large",
+        "PRICE": 40.86,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Meat Lover\u2019s\u00ae Personal Pan",
+        "PRICE": 34.02,
+        "DESCRIPTION": "Um cl\u00e1ssico que nunca sai de moda."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Meat Lover\u2019s\u00ae Medium",
+        "PRICE": 53.44,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Meat Lover\u2019s\u00ae Large",
+        "PRICE": 50.11,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Pepperoni Personal Pan",
+        "PRICE": 40.7,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Pepperoni Medium",
+        "PRICE": 31.21,
+        "DESCRIPTION": "Sabor ex\u00f3tico que voc\u00ea vai adorar."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Pepperoni Large",
+        "PRICE": 40.77,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Pepperoni Lover\u2019s\u00ae Personal Pan",
+        "PRICE": 49.27,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Pepperoni Lover\u2019s\u00ae Medium",
+        "PRICE": 33.46,
+        "DESCRIPTION": "Deliciosos molhos para real\u00e7ar seu prato."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Pepperoni Lover\u2019s\u00ae Large",
+        "PRICE": 52.92,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Supreme Personal Pan",
+        "PRICE": 32.7,
+        "DESCRIPTION": "Para os amantes de caf\u00e9 e cappuccinos."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Supreme Medium",
+        "PRICE": 46.9,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Supreme Large",
+        "PRICE": 30.06,
+        "DESCRIPTION": "Uma escolha saud\u00e1vel e deliciosa."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Ultimate Cheese Lover\u2019s\u00ae Personal Pan",
+        "PRICE": 58.71,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Ultimate Cheese Lover\u2019s\u00ae Medium",
+        "PRICE": 40.3,
+        "DESCRIPTION": "Para os amantes de comida caseira."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Ultimate Cheese Lover\u2019s\u00ae Large",
+        "PRICE": 34.06,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Veggie Lover\u2019s\u00ae Personal Pan",
+        "PRICE": 56.45,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Veggie Lover\u2019s\u00ae Medium",
+        "PRICE": 41.36,
+        "DESCRIPTION": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "ITEM": "Pan Pizza Slices Veggie Lover\u2019s\u00ae Large",
+        "PRICE": 33.08,
+        "DESCRIPTION": "Para os amantes de comida caseira."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Backyard BBQ Chicken Small",
+        "PRICE": 39.45,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Backyard BBQ Chicken Medium",
+        "PRICE": 40.07,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Backyard BBQ Chicken Large",
+        "PRICE": 48.89,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Beyond Meat\u00ae Pepperoni Medium",
+        "PRICE": 45.35,
+        "DESCRIPTION": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Beyond Meat\u00ae Pepperoni Large",
+        "PRICE": 32.67,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o \u00fanica de sabores e texturas."
+    },
+    {
+        "ITEM": "Hand Tossed Slices  Buffalo Chicken Small",
+        "PRICE": 55.86,
+        "DESCRIPTION": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "ITEM": "Hand Tossed Slices  Buffalo Chicken Medium",
+        "PRICE": 30.96,
+        "DESCRIPTION": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "ITEM": "Hand Tossed Slices  Buffalo Chicken Large",
+        "PRICE": 40.59,
+        "DESCRIPTION": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Cheese Small",
+        "PRICE": 42.02,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Cheese Medium",
+        "PRICE": 44.47,
+        "DESCRIPTION": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Cheese Large",
+        "PRICE": 49.49,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Chicken Bacon Parmesan Small",
+        "PRICE": 55.65,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Chicken Bacon Parmesan Medium",
+        "PRICE": 51.18,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Chicken Bacon Parmesan Large",
+        "PRICE": 52.22,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Hawaiian Chicken Small",
+        "PRICE": 38.78,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Hawaiian Chicken Medium",
+        "PRICE": 57.11,
+        "DESCRIPTION": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Hawaiian Chicken Large",
+        "PRICE": 41.3,
+        "DESCRIPTION": "Incrivelmente saboroso e satisfat\u00f3rio."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Meat Lover\u2019s\u00ae Small",
+        "PRICE": 47.88,
+        "DESCRIPTION": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Meat Lover\u2019s\u00ae Medium",
+        "PRICE": 32.2,
+        "DESCRIPTION": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Meat Lover\u2019s\u00ae Large",
+        "PRICE": 59.8,
+        "DESCRIPTION": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Pepperoni Small",
+        "PRICE": 35.13,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Pepperoni Medium",
+        "PRICE": 41.54,
+        "DESCRIPTION": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Pepperoni Large",
+        "PRICE": 41.06,
+        "DESCRIPTION": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Pepperoni Lover\u2019s\u00ae Small",
+        "PRICE": 46.11,
+        "DESCRIPTION": "Uma bebida gelada e revigorante."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Pepperoni Lover\u2019s\u00ae Medium",
+        "PRICE": 59.72,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Pepperoni Lover\u2019s\u00ae Large",
+        "PRICE": 45.19,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Supreme Small",
+        "PRICE": 39.86,
+        "DESCRIPTION": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Supreme Medium",
+        "PRICE": 41.64,
+        "DESCRIPTION": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Supreme Large",
+        "PRICE": 32.6,
+        "DESCRIPTION": "Para os amantes de bebidas geladas."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Ultimate Cheese Lover\u2019s\u00ae Small",
+        "PRICE": 33.58,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Ultimate Cheese Lover\u2019s\u00ae Medium",
+        "PRICE": 39.43,
+        "DESCRIPTION": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Ultimate Cheese Lover\u2019s\u00ae Large",
+        "PRICE": 58.28,
+        "DESCRIPTION": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Veggie Lover\u2019s\u00ae Small",
+        "PRICE": 51.06,
+        "DESCRIPTION": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Veggie Lover\u2019s\u00ae Medium",
+        "PRICE": 43.03,
+        "DESCRIPTION": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "ITEM": "Hand Tossed Slices Veggie Lover\u2019s\u00ae Large",
+        "PRICE": 50.63,
+        "DESCRIPTION": "Sabor ex\u00f3tico que vai te surpreender."
+    }
+]
